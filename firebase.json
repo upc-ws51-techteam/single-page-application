@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "swift-ship",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

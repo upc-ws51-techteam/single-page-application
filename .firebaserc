@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "swift-ship-a06e2": {
+      "hosting": {
+        "swift-ship": [
+          "swift-ship-a06e2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "swift-ship-a06e2"
+  }
+}
